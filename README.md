@@ -45,9 +45,9 @@
         <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
     </div>
    
-    
   
-  <h1 align="center">Social Media</h1>
+  
+  <br><h1 align="center">Social Media</h1>
     <a href = "mailto: alissondurden@gmail.com">
       <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg">
     </a>
