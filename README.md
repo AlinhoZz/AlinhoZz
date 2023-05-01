@@ -15,7 +15,7 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="40" alt="java-icon" src="https://cdn.worldvectorlogo.com/logos/java.svg">
+    <img align="center" height="35" width="35" alt="java-icon" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
     <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">  
     <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
 
