@@ -21,10 +21,12 @@
 </div>
 <br>
 
+
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
-    <h1 align="center">Technologies I use the most<3</h1>
+    <img align="left" height="300" alt="coding-time" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/code.gif">
+    <h1 align="center">Technologies I use the most</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -32,8 +34,17 @@
     <img align="center" height="35" width="35" alt="java-icon" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
     <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">  
     <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
-
+      
    </div>
+    
+<div  align="center"> 
+      <div style="display: inline_block"><br>
+         <h1 align="center">Studying in this moment</h1>
+        <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">
+        <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
+    </div>
+   
     
   
   <h1 align="center">Social Media</h1>
