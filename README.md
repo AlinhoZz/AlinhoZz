@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36648B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alisson+Santana;I'm+19+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlinhoZz&bg_color=0d1117&color=36648B&line=36648B&point=36648B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
