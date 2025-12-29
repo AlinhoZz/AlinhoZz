@@ -7,7 +7,7 @@
 
 
 
-## Hi dev, my name is Alisson! I currently work as an IT instructor at GIRAL.
+## Hi dev, my name is Alisson!.
 
 
 
