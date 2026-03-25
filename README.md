@@ -78,12 +78,5 @@ Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, finte
   </a>
 </p>
 
----
-
-## Frase
-
-<p align="center">
-  "Consistência e curiosidade nos levam mais longe do que o talento sozinho."
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=footer"/>
