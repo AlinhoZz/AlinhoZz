@@ -1,66 +1,66 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=header"/>
 
-<h1 align="center">Hi, I'm Alisson Santana 👋</h1>
+<h1 align="center">Olá, eu sou Alisson Santana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=36648B&size=28&center=true&vCenter=true&width=1000&lines=Backend+Developer;Software+Developer;Computer+Science+Student;Always+learning+new+technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36648B&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Backend;Desenvolvedor+de+Software;Estudante+de+Tecnologia;Sempre+aprendendo+novas+tecnologias" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From-Brazil-36648B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-36648B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-1%2B%20year-36648B?style=for-the-badge" />
-</p>
-
----
-
-## About me
-
-I'm a software developer passionate about building solutions that create real impact.
-
-I studied Software Engineering for 1 year and a half at Jala University (USA), completed the 8th semester of Computer Science at Uninassau, and I am currently studying Systems Analysis and Development at Cesar School.
-
-I have more than 1 year of experience as a software developer at ONG Giral, in Glória do Goitá, where I contribute to projects focused on social impact through technology.
-
-Currently, I also work as a Junior Backend Developer at Propig, a fintech from Grupo Moura, building and maintaining backend solutions for financial products.
-
----
-
-## Technologies I use the most
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,java,docker,aws,mysql" />
+  <img src="https://img.shields.io/badge/País-Brasil-36648B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Backend-36648B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experiência-1%2B%20ano-36648B?style=for-the-badge" />
 </p>
 
 ---
 
-## Currently studying
+## Sobre mim
+
+Sou um desenvolvedor de software apaixonado por construir soluções que geram impacto real.
+
+Cursei 1 ano e meio de Engenharia de Software na Jala University (EUA), concluí o 8º período de Ciência da Computação na Uninassau e atualmente curso Análise e Desenvolvimento de Sistemas na Cesar School.
+
+Tenho mais de 1 ano de experiência como desenvolvedor de software na ONG Giral, em Glória do Goitá, onde contribuo com projetos voltados para impacto social por meio da tecnologia.
+
+Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, fintech do Grupo Moura, desenvolvendo e mantendo soluções backend para produtos financeiros.
+
+---
+
+## Tecnologias que mais utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,java,docker,aws,postgres,git" />
+</p>
+
+---
+
+## Estudando no momento
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,docker,aws,python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Architecture-36648B?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-36648B?style=for-the-badge&logo=dependabot&logoColor=white" />
 </p>
 
 ---
 
-## Professional experience
+## Experiência profissional
 
 ### ONG Giral
-- Software Developer
-- Development of systems and solutions with social impact
-- Participation in projects focused on education and technology
+- Desenvolvedor de Software
+- Desenvolvimento de sistemas e soluções com impacto social
+- Participação em projetos voltados para educação e tecnologia
 
 ### Propig
-- Junior Backend Developer
-- Backend development for fintech products
-- Maintenance and evolution of financial systems
+- Desenvolvedor Backend Júnior
+- Desenvolvimento backend para produtos de fintech
+- Manutenção e evolução de sistemas financeiros
 
 ---
 
-## Connect with me
+## Conecte-se comigo
 
 <p align="center">
   <a href="mailto:alissondurden@gmail.com">
@@ -77,12 +77,5 @@ Currently, I also work as a Junior Backend Developer at Propig, a fintech from G
   </a>
 </p>
 
----
-
-## Motto
-
-<p align="center">
-  "Consistency and curiosity take us further than talent alone."
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=footer"/>
