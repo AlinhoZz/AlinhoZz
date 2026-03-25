@@ -20,7 +20,7 @@ Sou um desenvolvedor de software apaixonado por construir soluções que geram i
 
 Cursei 1 ano e meio de Engenharia de Software na Jala University (EUA), concluí o 8º período de Ciência da Computação na Uninassau e atualmente curso Análise e Desenvolvimento de Sistemas na Cesar School.
 
-Tenho mais de 1 ano de experiência como desenvolvedor de software na ONG Giral, em Glória do Goitá, onde contribuo com projetos voltados para impacto social por meio da tecnologia.
+Tenho mais de 1 ano de experiência como desenvolvedor de software na ONG Giral, em Glória do Goitá, onde atuo no desenvolvimento do sistema financeiro, na criação e configuração de um NAS com TrueNAS e no desenvolvimento de outros sistemas internos.
 
 Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, fintech do Grupo Moura, desenvolvendo e mantendo soluções backend para produtos financeiros.
 
@@ -29,7 +29,7 @@ Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, finte
 ## Tecnologias que mais utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,java,docker,aws,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=python,django,nextjs,typescript,tailwind,java,docker,aws,postgres,git" />
 </p>
 
 ---
@@ -50,8 +50,9 @@ Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, finte
 
 ### ONG Giral
 - Desenvolvedor de Software
-- Desenvolvimento de sistemas e soluções com impacto social
-- Participação em projetos voltados para educação e tecnologia
+- Desenvolvimento do sistema financeiro da instituição
+- Criação e configuração de um NAS com TrueNAS
+- Desenvolvimento de outros sistemas internos
 
 ### Propig
 - Desenvolvedor Backend Júnior
@@ -77,5 +78,12 @@ Atualmente, também trabalho como Desenvolvedor Backend Júnior na Propig, finte
   </a>
 </p>
 
+---
+
+## Frase
+
+<p align="center">
+  "Consistência e curiosidade nos levam mais longe do que o talento sozinho."
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=footer"/>
