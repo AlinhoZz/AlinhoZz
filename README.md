@@ -1,54 +1,88 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36648B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alisson+Santana;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Alisson Santana 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=36648B&size=28&center=true&vCenter=true&width=1000&lines=Backend+Developer;Software+Developer;Computer+Science+Student;Always+learning+new+technologies" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/From-Brazil-36648B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-36648B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20year-36648B?style=for-the-badge" />
+</p>
 
+---
 
+## About me
 
+I'm a software developer passionate about building solutions that create real impact.
 
-## Hi dev, my name is Alisson!.
+I studied Software Engineering for 1 year and a half at Jala University (USA), completed the 8th semester of Computer Science at Uninassau, and I am currently studying Systems Analysis and Development at Cesar School.
 
+I have more than 1 year of experience as a software developer at ONG Giral, in Glória do Goitá, where I contribute to projects focused on social impact through technology.
 
+Currently, I also work as a Junior Backend Developer at Propig, a fintech from Grupo Moura, building and maintaining backend solutions for financial products.
 
+---
 
+## Technologies I use the most
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="300" alt="coding-time" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
-    <h1 align="center">Technologies I use the most</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="35" width="35" alt="java-icon" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
-    <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">  
-   </div>
-    
-<div align="center"> 
-  <div style="display: inline_block"><br>
-    <h1 align="center">Studying in this moment</h1>
-    <img align="center" height="30" width="40" alt="django-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-    <img align="center" height="30" width="40" alt="docker-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-    <img align="center" alt="architecture-badge" src="https://img.shields.io/badge/Software%20Architecture-36648B?style=for-the-badge&logo=dependabot&logoColor=white">
-  </div>
-</div>
-   
-  
-  <br><h1 align="center">Social Media</h1>
-    <a href = "mailto: alissondurden@gmail.com">
-      <img width="30" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/alisson-santana-359597270/">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCvvrCEqzqxbppFIpt6RMvkw">
-      <img width="35" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/alisuuxx/">
-      <img width="25" src="https://raw.githubusercontent.com/LuigiGf/LuigiGf/main/instagram.png">
-    </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,java,docker,aws,mysql" />
+</p>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=footer"/>
+---
 
+## Currently studying
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,docker,aws,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Architecture-36648B?style=for-the-badge&logo=dependabot&logoColor=white" />
+</p>
+
+---
+
+## Professional experience
+
+### ONG Giral
+- Software Developer
+- Development of systems and solutions with social impact
+- Participation in projects focused on education and technology
+
+### Propig
+- Junior Backend Developer
+- Backend development for fintech products
+- Maintenance and evolution of financial systems
+
+---
+
+## Connect with me
+
+<p align="center">
+  <a href="mailto:alissondurden@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-36648B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alisson-santana-359597270/">
+    <img src="https://img.shields.io/badge/LinkedIn-36648B?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCvvrCEqzqxbppFIpt6RMvkw">
+    <img src="https://img.shields.io/badge/YouTube-36648B?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/alisuuxx/">
+    <img src="https://img.shields.io/badge/Instagram-36648B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Motto
+
+<p align="center">
+  "Consistency and curiosity take us further than talent alone."
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=36648B&height=120&section=footer"/>
