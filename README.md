@@ -23,17 +23,16 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="35" width="35" alt="java-icon" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/java_93883.png">
     <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">  
-    <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
-      
    </div>
     
-<div  align="center"> 
-      <div style="display: inline_block"><br>
-         <h1 align="center">Studying in this moment</h1>
-        <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" height="30" width="30" alt="python-icon" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png">
-        <img align="center" height="40" width="40" alt="kali-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834">
-    </div>
+<div align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">Studying in this moment</h1>
+    <img align="center" height="30" width="40" alt="django-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="architecture-badge" src="https://img.shields.io/badge/Software%20Architecture-36648B?style=for-the-badge&logo=dependabot&logoColor=white">
+  </div>
+</div>
    
   
   <br><h1 align="center">Social Media</h1>
